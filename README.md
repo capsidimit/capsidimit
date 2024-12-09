@@ -1,5 +1,5 @@
 # Hey 👋 What's up?
-I am graduated Bauman Moscow State Technical University student driven by a curiosity for technology.  My journey involves delving into the world of computer science and exploring new ideas.
+I am graduated Bauman Technical University student driven by a curiosity for technology.  My journey involves delving into the world of computer science and exploring new ideas.
 
 ![capsidimit's Stats](https://github-readme-stats.vercel.app/api?username=capsidimit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
